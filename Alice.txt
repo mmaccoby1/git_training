@@ -1,8 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding some text to the second line.
 Another change!
-<<<<<<< HEAD
-More text.
-=======
 Adding some text online.
->>>>>>> 05e5d72f27abe5a65982c3c0c3067bf86556cfdf
